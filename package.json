@@ -1,5 +1,5 @@
 {
-  "name": "redux-perf-middleware",
+  "name": "react-network-info",
   "version": "1.0.0",
   "description": "HoC providing info for the network conditions",
   "main": "index.js",
@@ -38,8 +38,5 @@
   "bugs": {
     "url": "https://github.com/AvraamMavridis/react-network-info/issues"
   },
-  "homepage": "https://github.com/AvraamMavridis/react-network-info#readme",
-  "dependencies": {
-    "present": "^1.0.0"
-  }
+  "homepage": "https://github.com/AvraamMavridis/react-network-info#readme"
 }
