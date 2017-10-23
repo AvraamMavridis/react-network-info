@@ -5,7 +5,7 @@
 Install the component
 
 ```js
-import NetworkInformation from 'react-network-information';
+import NetworkInformation from 'react-network-info';
 ```
 
 Wrap your components with it
@@ -16,7 +16,7 @@ Wrap your components with it
 </NetworkInformation>
 ```
 
-It provides to the children components the following props:
+It provides to the children/wrapped components the following props:
 
 | Prop        | Descriptipn     |
 | ------------- |-------------|
