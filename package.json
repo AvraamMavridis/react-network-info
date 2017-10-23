@@ -1,0 +1,45 @@
+{
+  "name": "redux-perf-middleware",
+  "version": "1.0.0",
+  "description": "HoC providing info for the network conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run compile && mocha --compilers js:babel-register --require babel-polyfill",
+    "compile": "babel --presets es2015,stage-0 --require babel-polyfill -d lib/ src/",
+    "prepublish": "npm run compile",
+    "watch": "npm-scripts-watcher"
+  },
+  "watch": {
+    "src/**/*.js": [
+      "compile"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvraamMavridis/react-network-info.git"
+  },
+  "keywords": [
+    "react",
+    "network"
+  ],
+  "author": "Avraam Mavridis <avraammauridis@gmail.com> (https://www.avraammavridis.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.11.4",
+    "babel-plugin-transform-decorators": "^6.8.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.11.6"
+  },
+  "bugs": {
+    "url": "https://github.com/AvraamMavridis/react-network-info/issues"
+  },
+  "homepage": "https://github.com/AvraamMavridis/react-network-info#readme",
+  "dependencies": {
+    "present": "^1.0.0"
+  }
+}
