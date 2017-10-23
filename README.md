@@ -19,7 +19,7 @@ Wrap your components with it
 It provides to the children components the following props:
 
 | Prop        | Descriptipn     |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | downlink      | The effective bandwidth estimate in megabits per second, rounded to the nearest multiple of 25 kilobits per seconds. |
 | effectiveType  | The effective type of the connection meaning one of 'slow-sg', '2g', '3g', or '4g' |
 | rtt  | The estimated effective round-trip time of the current connection  |
