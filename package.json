@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run compile && mocha --compilers js:babel-register --require babel-polyfill",
     "compile": "babel --presets react,stage-0,es2015 -d lib/ ./index.js",
-    "prepublish": "npm run compile"
+    "prepare": "npm run compile"
   },
   "watch": {
     "src/**/*.js": [
