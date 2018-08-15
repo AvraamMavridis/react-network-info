@@ -2,7 +2,7 @@
 
 ### [Demo](https://avraammavridis.github.io/react-network-info/)
 
-[![Build Status](https://travis-ci.org/AvraamMavridis/react-network-info.svg?branch=master)](https://travis-ci.org/AvraamMavridis/react-network-info)
+[![Build Status](https://travis-ci.org/AvraamMavridis/react-network-info.svg?branch=master)](https://travis-ci.org/AvraamMavridis/react-network-info) [![Greenkeeper badge](https://badges.greenkeeper.io/AvraamMavridis/react-network-info.svg)](https://greenkeeper.io/)
 
 
 <a href="https://nodei.co/npm/react-network-info/"><img src="https://nodei.co/npm/react-network-info.png?mini=true"></a>
