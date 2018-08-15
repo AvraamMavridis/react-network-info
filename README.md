@@ -1,5 +1,8 @@
 # HoC providing info about the network conditions
 
+### [Demo](https://avraammavridis.github.io/react-network-info/)
+
+
 <a href="https://nodei.co/npm/react-network-info/"><img src="https://nodei.co/npm/react-network-info.png?mini=true"></a>
 
 Install the component
