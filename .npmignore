@@ -1,1 +1,14 @@
-src
+src/
+coverage/
+build/
+.babelrc
+.eslintrc.js
+.travis.yml
+CHANGELOG.md
+index.html
+jest.config.js
+jest.init.js
+README.md
+styles.css
+styleguide.config.js
+tests/
