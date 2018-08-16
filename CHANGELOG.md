@@ -1,3 +1,9 @@
+#### 1.2.3 (2018-08-16)
+
+##### Chores
+
+*  Add build status on documetation ([b27b8674](https://github.com/AvraamMavridis/react-network-info/commit/b27b8674a3764899145d65c2ce1b32baaabf323c))
+
 #### 1.2.2 (2018-08-16)
 
 ##### Chores
