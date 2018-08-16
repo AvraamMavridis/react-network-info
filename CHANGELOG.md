@@ -1,3 +1,9 @@
+#### 1.2.2 (2018-08-16)
+
+##### Chores
+
+*  Remove from npm tarball unnecessary files ([bf2318d8](https://github.com/AvraamMavridis/react-network-info/commit/bf2318d83dc68e1b60fe7509de77f110bedfe486))
+
 #### 1.2.1 (2018-08-16)
 
 ##### Chores
