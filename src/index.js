@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 /**
- * High Order Component to Provide
+ * High Order Component
  * that provides info about the connection type/speed
  * to the wrapped components.
  * You can use it to hide/show a section of a page based
