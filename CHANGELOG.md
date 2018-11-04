@@ -1,3 +1,14 @@
+#### 1.2.4 (2018-11-04)
+
+##### Chores
+
+*  Add package-lock ([5d1f6eae](https://github.com/AvraamMavridis/react-network-info/commit/5d1f6eaecd26b9b83973ee8648a90899e33f786a))
+*  Update Readme ([3db3a6c6](https://github.com/AvraamMavridis/react-network-info/commit/3db3a6c6a02ab450621fb0eaf57aefd5bc13a401))
+* **package:**
+  *  update react-styleguidist to version 8.0.0 ([#9](https://github.com/AvraamMavridis/react-network-info/pull/9)) ([a083d47b](https://github.com/AvraamMavridis/react-network-info/commit/a083d47be5d4237d32a0e87b766838c24f61bf9f))
+  *  update enzyme to version 3.4.4 ([#4](https://github.com/AvraamMavridis/react-network-info/pull/4)) ([97754b91](https://github.com/AvraamMavridis/react-network-info/commit/97754b91d9d1cb37d12a8532ff7785eae055b6ac))
+  *  update babel-eslint to version 9.0.0 ([#5](https://github.com/AvraamMavridis/react-network-info/pull/5)) ([f39b2148](https://github.com/AvraamMavridis/react-network-info/commit/f39b214845356210993df79aa05e29bc60c658b4))
+
 #### 1.2.3 (2018-08-16)
 
 ##### Chores
